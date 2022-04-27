@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bio</string>
+    <string name="name">Logan Zhang</string>
+    <string name="my_bio">Western intelligence agencies are waging a psychological war over Ukraine directly with Russian President Vladimir Putin,
+        an expert at the genre, who is now effectively taking a dose of his own medicine.
+        The United States and its allies are painting a picture of a bogged down,
+        demoralized and dysfunctional Russian military taking disastrous losses on the battlefield,
+        and are simultaneously conjuring a vision of growing political tension inside the Kremlin.
+        They claim the Russian leader is isolated, poorly advised and lacking real intelligence on just how badly the war is going.
+        Western governments are preventing Putin from defining the narrative of the war -- just as they did before it began,
+        when their declassified intelligence correctly called an invasion many geopolitical experts thought was unlikely.</string>
+    <string name="hobby_hint_text">Enter your hobbies</string>
+    <string name="done_text">Done</string>
+    <string name="image_description">Android bot image</string>
+    <string name="auto_fill_hints">classical guitar</string>
+</resources>
