@@ -30,6 +30,7 @@ public class CircularLinkedList {
 
         if (isEmpty()){
             firstNode = tmp;
+            lastNode = tmp;
         }else {
             lastNode.next = tmp; // Remove null in old last node's next
             lastNode = tmp;      // Update last node address in CircularLinkedList
