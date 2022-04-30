@@ -1,4 +1,4 @@
-package oop;
+package Oop;
 
 public class Human {
 

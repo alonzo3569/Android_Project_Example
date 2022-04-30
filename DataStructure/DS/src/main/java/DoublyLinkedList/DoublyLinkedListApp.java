@@ -17,9 +17,5 @@ public class DoublyLinkedListApp {
         theList.insertAfter(22, 77);
         theList.displayForward();
         theList.displayBackward();
-
-        int[] a = {1, 2};
-        System.out.println(a.length);
-        a.
     }
 }
